@@ -27,9 +27,11 @@
 
 💡 Sobre mim:
 
-    🇧🇷 Apaixonado por tecnologia e sempre em busca de novos desafios, gosto de aprender e compartilhar conhecimentos. Estou constantemente explorando novas ferramentas e metodologias para melhorar minhas habilidades e contribuir com projetos inovadores.
+    🇧🇷 Apaixonado por tecnologia e sempre em busca de novos desafios, gosto de aprender e compartilhar conhecimentos.
+    Estou constantemente explorando novas ferramentas e metodologias para melhorar minhas habilidades e contribuir com projetos inovadores.
 
-    🇬🇧 Passionate about technology and always looking for new challenges, I like to learn and share knowledge. I am constantly exploring new tools and methodologies to improve my skills and contribute to innovative projects.
+    🇬🇧 Passionate about technology and always looking for new challenges, I like to learn and share knowledge. 
+    I am constantly exploring new tools and methodologies to improve my skills and contribute to innovative projects.
 
 
 
