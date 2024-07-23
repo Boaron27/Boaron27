@@ -3,6 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-boaron-dalsas-resende/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gboaron_/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.linkedin.com/in/gabriel-boaron-dalsas-resende/)
 
 ![Boaron59 GitHub stats](https://github-readme-stats.vercel.app/api?username=Boaron59&show_icons=true&theme=radical)
 
