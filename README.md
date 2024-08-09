@@ -63,4 +63,4 @@
 <br>
 <br>
 
-![Boaron59 GitHub stats](https://github-readme-stats.vercel.app/api?username=Boaron59&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Boaron&show_icons=true&theme=radical)
