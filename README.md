@@ -23,7 +23,7 @@
 
 📚 Educação:
 
-    Universidade Paulista de Ribeirão Preto - UNIP RP
+    Universidade Paulista de Ribeirão Preto - UNIP-VARGAS RP
 
 💡 Sobre mim:
 
